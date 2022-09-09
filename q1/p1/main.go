@@ -18,6 +18,7 @@ func p(x int) {
 		count++
 	}
 	fmt.Println(arr)
+	// Output Time
 	elapsed := time.Since(start)
 	fmt.Println(elapsed)
 
@@ -29,6 +30,7 @@ func p(x int) {
 		count++
 	}
 	fmt.Println(slice)
+	// Output Time
 	elapsed = time.Since(start)
 	fmt.Println(elapsed)
 
@@ -40,6 +42,7 @@ func p(x int) {
 		count++
 	}
 	fmt.Println(mymap)
+	// Output Time
 	elapsed = time.Since(start)
 	fmt.Println(elapsed)
 }
