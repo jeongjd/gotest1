@@ -1,0 +1,3 @@
+Does your observation follow the Big-O time analysis of Sort and Stable from the Go official documentation? Why or Why Not?
+
+My program follows the Big-O time analysis of Sort and Stable from the Go official documentation, because it executes the function in the same manner, with the same time complexity, as the function listed in the documentation. 
